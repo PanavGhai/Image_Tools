@@ -177,7 +177,3 @@ PNG may still be preferable when transparency or lossless image quality is impor
 The tools are designed to keep the original images unchanged.
 
 Generated files are written to separate output directories rather than replacing the source images.
-
-## License
-
-Add your preferred license here.
